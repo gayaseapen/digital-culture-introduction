@@ -6,7 +6,7 @@ image: 1.jpg
 
 ---
 title: Practices and performances in north-Indian streets
-image:
+image: 2.png
 
 
 ---
@@ -16,4 +16,4 @@ description:
   * Techniques as practice (Larkin)
   * Techniques as infrastructure (Simone)
   * Techniques as the cultural boundaries (Siegert, Geoghegan)
-image:
+image: 3.png
