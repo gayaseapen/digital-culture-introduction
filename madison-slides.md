@@ -1,6 +1,6 @@
 title: Media in Public: Techniques and Performances in North Indian Streets
 author: Gayas Eapen, Assistant Professor, Coastal Carolina University
-image: 
+image: 1.jpg
 
 
 
@@ -8,7 +8,6 @@ image:
 title: Practices and performances in north-Indian streets
 image:
 
-t
 
 ---
 
